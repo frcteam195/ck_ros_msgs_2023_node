@@ -1,0 +1,2 @@
+bool rollers_intake
+bool rollers_outake
