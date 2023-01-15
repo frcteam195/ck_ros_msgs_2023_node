@@ -1,2 +1,0 @@
-float64 arm_base_actual_position
-float64 arm_upper_actual_position
