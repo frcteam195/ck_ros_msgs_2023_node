@@ -1,7 +1,10 @@
+int8 ROBOT_ORIENTED = 0
+int8 FIELD_ORIENTED = 1
+
 float64 drivetrain_fwd_back
 float64 drivetrain_left_right
 float64 drivetrain_swerve_percent_fwd_vel
 float64 drivetrain_swerve_direction
 float64 drivetrain_swerve_percent_angular_rot
-bool drivetrain_quickturn
+int8 drivetrain_orientation
 bool drivetrain_brake
