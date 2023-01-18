@@ -1,1 +1,2 @@
 Fault[] faults
+bool acknowledge 
