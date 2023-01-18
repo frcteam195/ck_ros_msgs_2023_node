@@ -1,2 +1,2 @@
 Fault[] faults
-bool acknowledge = false
+bool acknowledge = False
