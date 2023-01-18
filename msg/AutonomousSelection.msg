@@ -1,0 +1,3 @@
+string selectedGamePiece
+string selectedStartPosition
+string selectedAuto
