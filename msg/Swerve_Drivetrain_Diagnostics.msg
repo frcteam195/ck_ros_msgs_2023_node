@@ -14,3 +14,5 @@ float32 target_angular_speed_deg_s
 float32 compensated_target_angular_speed_deg_s
 float32 heading_absolute_compensated_angular_speed_deg_s
 float32 actual_angular_speed_deg_s
+float32 auto_target_heading
+float32 actual_heading
