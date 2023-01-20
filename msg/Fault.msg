@@ -1,2 +1,2 @@
-string fault_code
+string code
 int32 priority
