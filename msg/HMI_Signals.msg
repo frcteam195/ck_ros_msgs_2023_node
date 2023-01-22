@@ -8,3 +8,7 @@ float64 drivetrain_swerve_direction
 float64 drivetrain_swerve_percent_angular_rot
 int8 drivetrain_orientation
 bool drivetrain_brake
+
+bool request_cube
+bool request_cone
+bool party_mode
