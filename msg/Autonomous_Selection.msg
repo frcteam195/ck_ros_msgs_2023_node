@@ -1,3 +1,3 @@
-string[] starting_position
-string[] game_piece
-string[] autonomous
+string starting_position
+string game_piece
+string autonomous
