@@ -1,2 +1,1 @@
-Fault[] faults
 bool acknowledge 
