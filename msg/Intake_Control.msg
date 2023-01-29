@@ -1,2 +1,3 @@
 bool rollers_intake
 bool rollers_outake
+bool pincher_solenoid_on
