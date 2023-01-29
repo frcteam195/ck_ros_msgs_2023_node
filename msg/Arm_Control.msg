@@ -1,2 +1,3 @@
 float64 arm_base_requested_position
 float64 arm_upper_requested_position
+bool extend
