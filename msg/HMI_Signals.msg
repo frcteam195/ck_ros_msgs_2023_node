@@ -1,5 +1,5 @@
 int8 ROBOT_ORIENTED = 0
-int8 FIELD_ORIENTED = 1
+int8 FIELD_CENTRIC = 1
 
 float64 drivetrain_fwd_back
 float64 drivetrain_left_right
