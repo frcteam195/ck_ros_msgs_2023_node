@@ -6,5 +6,6 @@ float64 drivetrain_left_right
 float64 drivetrain_swerve_percent_fwd_vel
 float64 drivetrain_swerve_direction
 float64 drivetrain_swerve_percent_angular_rot
+float64 drivetrain_heading
 int8 drivetrain_orientation
 bool drivetrain_brake
