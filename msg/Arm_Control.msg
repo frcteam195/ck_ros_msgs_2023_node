@@ -1,3 +1,4 @@
 float64 arm_base_requested_position
 float64 arm_upper_requested_position
-bool extend
+float64 arm_wrist_requested_position
+float64 extend
