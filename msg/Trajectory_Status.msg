@@ -1,3 +1,4 @@
 string trajectory_name
 bool is_running
 bool is_completed
+float64 progress
