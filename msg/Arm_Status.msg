@@ -1,6 +1,19 @@
 float64 arm_base_actual_position
 float64 arm_upper_actual_position
 float64 arm_wrist_actual_position
+
+float64 arm_base_angle
+float64 arm_upper_angle
+float64 arm_wrist_angle
+
+float64 arm_base_velocity
+float64 arm_upper_velocity
+float64 arm_wrist_velocity
+
+float64 arm_base_angular_velocity
+float64 arm_upper_angular_velocity
+float64 arm_wrist_angular_velocity
+
 bool left_arm_base_remote_loss_of_signal
 bool right_arm_base_remote_loss_of_signal
 bool left_arm_base_reset_during_en
