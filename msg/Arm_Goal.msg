@@ -9,8 +9,8 @@ int8 MID_CUBE=7
 int8 HIGH_CONE=8
 int8 HIGH_CUBE=9
 
-int8 SIDE_FRONT=0
-int8 SIDE_BACK=1
+int8 SIDE_FRONT=10
+int8 SIDE_BACK=11
 
 int8 goal
 int8 goal_side
