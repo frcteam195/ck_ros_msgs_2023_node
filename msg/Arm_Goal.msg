@@ -8,6 +8,7 @@ int8 MID_CONE=6
 int8 MID_CUBE=7
 int8 HIGH_CONE=8
 int8 HIGH_CUBE=9
+int8 PRE_SCORE=10
 
 int8 goal
 
