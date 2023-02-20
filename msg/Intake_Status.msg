@@ -1,0 +1,1 @@
+bool pincher_solenoid_on
