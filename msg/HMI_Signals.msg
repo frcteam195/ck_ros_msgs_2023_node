@@ -13,3 +13,4 @@ float32 actual_heading
 float32 error
 float32 initial_output_val
 float32 second_output_val
+float32 desired_heading
