@@ -23,6 +23,8 @@ bool right_arm_base_hardware_ESD_reset
 bool left_arm_base_supply_unstable
 bool right_arm_base_supply_unstable
 
+bool arm_at_setpoint
+
 bool extended
 
 Arm_Goal goal
