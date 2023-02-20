@@ -12,8 +12,9 @@ int8 PRE_SCORE=10
 
 int8 goal
 
-int8 SIDE_FRONT=0
-int8 SIDE_BACK=1
+int8 SIDE_AUTO=0
+int8 SIDE_FRONT=1
+int8 SIDE_BACK=2
 
 int8 goal_side
 
