@@ -1,6 +1,6 @@
 bool rollers_intake
 bool rollers_outtake
-bool pincher_solenoid_on
+bool pinched
 
 # Practice Robot Only
 bool lift_solenoid_on
