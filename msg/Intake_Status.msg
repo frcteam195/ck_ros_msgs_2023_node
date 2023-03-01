@@ -1,1 +1,2 @@
 bool pinched
+bool is_node_alive

@@ -14,6 +14,8 @@ float64 arm_base_angular_velocity
 float64 arm_upper_angular_velocity
 float64 arm_wrist_angular_velocity
 
+bool is_node_alive
+
 bool left_arm_base_remote_loss_of_signal
 bool right_arm_base_remote_loss_of_signal
 bool left_arm_base_reset_during_en
