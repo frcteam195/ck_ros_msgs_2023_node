@@ -26,6 +26,8 @@ bool left_arm_base_supply_unstable
 bool right_arm_base_supply_unstable
 
 bool arm_at_setpoint
+float64 arm_base_deviation_deg
+float64 arm_upper_deviation_deg
 
 bool extended
 
