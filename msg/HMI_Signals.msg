@@ -9,6 +9,7 @@ float64 drivetrain_swerve_percent_angular_rot
 float64 drivetrain_heading
 int8 drivetrain_orientation
 bool drivetrain_brake
+bool drivetrain_xmode
 float32 actual_heading
 float32 error
 float32 initial_output_val
