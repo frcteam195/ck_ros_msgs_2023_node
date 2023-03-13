@@ -10,6 +10,7 @@ uint8 SINGLE_FADE = 5
 uint8 TWINKLE = 6
 uint8 TWINKLE_OFF = 7
 uint8 STROBE = 8
+uint8 MORSE = 20
 
 uint8 control_mode
 uint8 animation
@@ -20,3 +21,4 @@ uint8 white
 float64 brightness
 float64 speed
 uint32 number_leds
+string morse_message
