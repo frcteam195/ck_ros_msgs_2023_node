@@ -1,5 +1,5 @@
-uint8 SET_LED = 0
-uint8 ANIMATE = 1
+uint8 SET_LED = 1
+uint8 ANIMATE = 2
 
 uint8 COLOR_FLOW = 0
 uint8 FIRE = 1
