@@ -25,3 +25,12 @@ int8 WRIST_90=1
 int8 WRIST_180=2
 
 int8 wrist_goal
+
+int8 INTAKE_OFF=0
+int8 INTAKE_CONE=1
+int8 INTAKE_CUBE=2
+int8 OUTTAKE_CONE=3
+int8 OUTTAKE_CUBE=4
+
+int8 intake_goal
+float64 speed
