@@ -6,3 +6,5 @@ float32 target_steering_angle_deg
 float32 actual_steering_angle_deg
 float32 target_speed_m_s
 float32 actual_speed_m_s
+float32 commanded_percent_out
+float32 target_accel
