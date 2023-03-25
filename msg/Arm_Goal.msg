@@ -22,12 +22,6 @@ int8 SIDE_BACK=2
 
 int8 goal_side
 
-int8 WRIST_ZERO=0
-int8 WRIST_90=1
-int8 WRIST_180=2
-
-int8 wrist_goal
-
 int8 INTAKE_OFF=0
 int8 INTAKE_CONE=1
 int8 INTAKE_CUBE=2
