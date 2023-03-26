@@ -21,12 +21,3 @@ int8 SIDE_FRONT=1
 int8 SIDE_BACK=2
 
 int8 goal_side
-
-int8 INTAKE_OFF=0
-int8 INTAKE_CONE=1
-int8 INTAKE_CUBE=2
-int8 OUTTAKE_CONE=3
-int8 OUTTAKE_CUBE=4
-
-int8 intake_goal
-float64 speed
