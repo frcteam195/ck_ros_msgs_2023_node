@@ -8,3 +8,5 @@ float32 target_speed_m_s
 float32 actual_speed_m_s
 float32 commanded_percent_out
 float32 target_accel
+float32 ramped_target_speed_rpm
+float32 target_speed_rpm
