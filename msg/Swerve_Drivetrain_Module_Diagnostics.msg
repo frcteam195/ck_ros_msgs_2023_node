@@ -10,3 +10,6 @@ float32 commanded_percent_out
 float32 target_accel
 float32 ramped_target_speed_rpm
 float32 target_speed_rpm
+float32 actual_speed_rpm
+float32 accel_component
+float32 velocity_component
