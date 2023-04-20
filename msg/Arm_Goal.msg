@@ -18,6 +18,9 @@ int8 HIGH_CUBE_AUTO=16
 int8 CUBE_PUSH_HARD_AUTO=17
 
 
+int8 FORCE_HOME=29
+
+
 int8 goal
 
 int8 SIDE_AUTO=0
