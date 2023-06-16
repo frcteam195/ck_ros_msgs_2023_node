@@ -3,8 +3,10 @@ int8 steering_motor_id
 int8 x_transform_m
 int8 y_transform_m
 float32 target_steering_angle_deg
+float32 target_steering_angle_team254_deg
 float32 actual_steering_angle_deg
 float32 target_speed_m_s
+float32 target_speed_team254_m_s
 float32 actual_speed_m_s
 float32 commanded_percent_out
 float32 target_accel
